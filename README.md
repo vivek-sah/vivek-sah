@@ -46,8 +46,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-sah1/) 
 
 
-[//]: # (## 🐦 Latest Tweet)
-[//]: # ([![]&#40;https://gtce.itsvg.in/api?username=https://twitter.com/KrishnaKumar_01&#41;]&#40;https://github.com/VishwaGauravIn/github-twitter-card-embed&#41;)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -56,7 +54,5 @@
 [![](https://visitcount.itsvg.in/api?id=vivek-sah&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
-[//]: # (## 💰 You can help me by Donating)
-[//]: # ([![BuyMeACoffee]&#40;https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&#41;]&#40;https://buymeacoffee.com/kk&#41;)
 
 
