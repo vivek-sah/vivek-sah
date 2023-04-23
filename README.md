@@ -6,7 +6,6 @@
 
 # 💫 About Me:
 🎯 I’m currently learning Full Stack Java Development, excited to contribute to opensource projects.<br>
-✍️ You can check out my blogs here.<br>
 <br>
 
 
